@@ -15,6 +15,8 @@
 - Образовательные учреждения города Москвы (https://data.mos.ru/opendata/7719028495-obrazovatelnye-uchrejdeniya-goroda-moskvy)
 - Сведения о местонахождении многоквартирных домов, в которых осуществлен капитальный ремонт (Тульская область) (http://www.opendata71.ru/opendata/7107519810-sommdvkokr)
 - Перечень домов, ремонтируемых по программе капитального ремонта МКД г.Казани (http://data.kzn.ru/datasets/136/data?view_type=list&page=1&per_page=25)
+- NYPD Motor Vehicle Collisions (New York) (https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95)
+- Historical New York City Crime Data (New York) (https://data.cityofnewyork.us/Public-Safety/Historical-New-York-City-Crime-Data/hqhv-9zeg)
 
 ### Скрипт для выгрузки данных через API проекта "Госзатрат"
 http://www.datadrivenjournalism.ru/2017/04/18/clearspending_downloader/
