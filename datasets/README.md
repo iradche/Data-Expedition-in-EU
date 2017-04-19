@@ -21,3 +21,9 @@ http://www.datadrivenjournalism.ru/2017/04/18/clearspending_downloader/
 
 OSM API: http://wiki.openstreetmap.org/wiki/API        
 Документация на сайте сообщества GIS-Lab: https://gis-lab.info/          
+
+### Awesome list of public data abroad
+https://github.com/caesar0301/awesome-public-datasets
+
+### Список открытых данных на русском языке (АНО Инфокультура)
+https://github.com/infoculture/awesome-opendata-rus
