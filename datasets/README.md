@@ -25,7 +25,8 @@ OSM API: http://wiki.openstreetmap.org/wiki/API
 Документация на сайте сообщества GIS-Lab: https://gis-lab.info/          
 
 ### Awesome list of public data abroad
-https://github.com/caesar0301/awesome-public-datasets
+Список публичных наборов данных по областям: https://github.com/caesar0301/awesome-public-datasets
+2600+ Open Data portals: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/
 
 ### Список открытых данных на русском языке (АНО Инфокультура)
 https://github.com/infoculture/awesome-opendata-rus
