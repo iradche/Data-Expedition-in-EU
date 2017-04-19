@@ -28,7 +28,7 @@ OSM API: http://wiki.openstreetmap.org/wiki/API
 
 ### Awesome list of public data abroad
 Список публичных наборов данных по областям: https://github.com/caesar0301/awesome-public-datasets       
-2600+ Open Data portals: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/
+2600+ Open Data portals: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/    
 CKAN Open Data portals: http://dataportals.org/       
 
 ### Список открытых данных на русском языке (АНО Инфокультура)
