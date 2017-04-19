@@ -44,18 +44,20 @@
 4. Найти и запротоколировать ссылки в журнал 
 5. Обсудить найденное
 
-   
-### List of Open Data portals
-- US Open Data portal: http://data.gov/
-- UK Open Data portal: http://data.gov.uk/
-- RF Open Data portal: http://data.gov.ru
 
 ### Полезные ссылки
 - 30 Places to Find Open Data on the Web: http://www.scribblelive.com/blog/2012/03/30/data-sources/     
 - A comprehensive list of 2600+ Open Data Portals around the world: https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/      
 
-### Tools used in this lesson
+### Инструментарий, используемый на занятии
 Google Docs, Google Spreadsheets, HackPad, Google Forms.
+
+
+### Задания
+
+1. Завести/указать почту на gmail.      
+2. Подумать над тематикой исследования.      
+3. Подумать над тем, где искать данные для исследования.     
 
 ### Подведение итогов
 
