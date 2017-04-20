@@ -13,7 +13,8 @@
 - Найти открытые данные для исследования
 
 ## Основные материалы занятия
-Поиск открытых данных (презентация).      
+Введение в открытые данные: https://www.slideshare.net/iradche/introduction-to-open-data-data-journalism      
+Поиск открытых данных (презентации: https://www.slideshare.net/iradche/open-data-43759996 и https://www.slideshare.net/iradche/open-data-41721805, исторический воркшоп по поиску открытых данных: https://www.slideshare.net/iradche/data-journalism-master-class).      
 Журналирование выполняемого исследования (организация журнала исследования в гугл-документе).       
 
 ## Дополнительные материалы
