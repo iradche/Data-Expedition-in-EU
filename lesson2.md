@@ -34,14 +34,14 @@ Cписок полезных ссылок и порталов открытых �
 Коллекция иллюстраций по открытым данным: https://ru.pinterest.com/iradche/open-data/      
 
 ### Научные статьи     
-[Principles of Citizen Science in Open Educational Projects Based on Open Data] (https://www.researchgate.net/publication/312218818_Principles_of_Citizen_Science_in_Open_Educational_Projects_Based_on_Open_Data)      
-[On Some Russian Educational Projects in Open Data and Data Journalism](https://www.researchgate.net/publication/299340975_On_Some_Russian_Educational_Projects_in_Open_Data_and_Data_Journalism)     
+1. [Principles of Citizen Science in Open Educational Projects Based on Open Data](https://www.researchgate.net/publication/312218818_Principles_of_Citizen_Science_in_Open_Educational_Projects_Based_on_Open_Data)      
+2. [On Some Russian Educational Projects in Open Data and Data Journalism](https://www.researchgate.net/publication/299340975_On_Some_Russian_Educational_Projects_in_Open_Data_and_Data_Journalism)     
       
    
 ### Инструкции
    
 1. Разделиться на маленькие исследовательские группы.
-2. Выбор и обсуждение темы исследования (одна тема на группу)
+2. Выбрать и обсудить темы исследования (одна тема на группу)
 3. Исследовать источники открытых данных (2-3 - OK, но чем больше осмысленных данных, тем лучше)
 4. Найти и запротоколировать ссылки в журнал 
 5. Обсудить найденное
