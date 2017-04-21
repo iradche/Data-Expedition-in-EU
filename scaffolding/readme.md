@@ -34,4 +34,5 @@
 LibreOffice: https://ru.libreoffice.org/     
 
 ### Список ВАКовских журналов
-Список ВАКовских журналов, актуальный на 20 апреля 2017 г.: http://vak.ed.gov.ru/87      
+Список ВАКовских журналов, актуальный на 20 апреля 2017 г.: http://vak.ed.gov.ru/87    
+Скачать его можно здесь: https://github.com/iradche/Data-Expedition-in-EU/blob/master/datasets/%D0%9F%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%8C%20%D0%92%D0%90%D0%9A%2019.04.2017.xlsx 
