@@ -9,12 +9,20 @@
 - Данные об ограничении движения транспорта на период производства работ в СПб. (http://data.gov.spb.ru/opendata/7803032323-block_traffic/)
 - Справка по реализации Адресной программы по ремонту дорог на соответствующий год в СПб. (http://data.gov.spb.ru/opendata/7830001853-road_repairs/)
 - Реестр лицензий на образовательную деятельность в СПб. (http://data.gov.spb.ru/opendata/7830002053-Register_of_licenses_for_educational_activities/)
+
+### Наборы данных по г. Москве
 - Нарушения ПДД выявляемые с использованием автоматической системы фотовидеофиксации нарушений ПДД в Москве (https://data.mos.ru/opendata/7704786030-narusheniya-pdd-vyyavlyaemye-s-ispolzovaniem-avtomaticheskoy-sistemy-fotovideofiksatsii-narusheniy-pdd)
 - Гостиницы в Москве (https://data.mos.ru/opendata/7708040885-gostinitsy)
 - Информация по вводу жилья в Москве (https://data.mos.ru/opendata/7703742961-informatsiya-po-vvodu-jilya)
 - Образовательные учреждения города Москвы (https://data.mos.ru/opendata/7719028495-obrazovatelnye-uchrejdeniya-goroda-moskvy)
+
+### Данные по Тульской области
 - Сведения о местонахождении многоквартирных домов, в которых осуществлен капитальный ремонт (Тульская область) (http://www.opendata71.ru/opendata/7107519810-sommdvkokr)
+
+### Наборы данных по г. Казани
 - Перечень домов, ремонтируемых по программе капитального ремонта МКД г.Казани (http://data.kzn.ru/datasets/136/data?view_type=list&page=1&per_page=25)
+
+### Наборы данных по г. Нью-Йорку
 - NYPD Motor Vehicle Collisions (New York) (https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95)
 - Historical New York City Crime Data (New York) (https://data.cityofnewyork.us/Public-Safety/Historical-New-York-City-Crime-Data/hqhv-9zeg)
 
