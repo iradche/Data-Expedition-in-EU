@@ -31,6 +31,17 @@ A Beginner's Python Tutorial: https://en.wikibooks.org/wiki/A_Beginner%27s_Pytho
 Learn Python Online: https://www.codementor.io/learn-python-online      
 Learning Python: http://python-guide-pt-br.readthedocs.io/en/latest/intro/learning/      
 
+## R
+### Инструкции, тюториалы, etc
+R Tutorial: https://www.tutorialspoint.com/r/     
+R Tutorial: http://www.cyclismo.org/tutorial/R/      
+An R Introduction to Statistics: http://www.r-tutor.com/     
+R Programming on Coursera: https://www.coursera.org/learn/r-programming     
+R Studio: https://www.rstudio.com/products/rstudio/      
+CRAN - The Comprehensive R Archive Network: https://cran.r-project.org/      
+Анализ данных в R: https://stepik.org/course/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-R-129/      
+Основы программирования на R: https://stepik.org/course/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-R-497/      
+
 
 
 
