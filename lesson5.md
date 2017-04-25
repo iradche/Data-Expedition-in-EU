@@ -17,7 +17,7 @@
 Продолжение журналирования выполняемого исследования (организация журнала исследования в гугл-документе).       
 
 ## Дополнительные материалы
-
+Инструменты публикации кода в научных исследованиях: http://thinkcognitive.org/ru/blog/instrumenty-publikatsii-koda-v-nauchny-h-issledovaniyah     
 Data Citation (Dataverse): http://best-practices.dataverse.org/data-citation/     
 Universal Numerical Fingerprint (UNF): http://guides.dataverse.org/en/latest/developers/unf/index.html     
 A Fingerprint Method for Scientific Data Verification: https://link.springer.com/chapter/10.1007%2F978-1-4020-8741-7_57     
