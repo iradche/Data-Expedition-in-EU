@@ -31,7 +31,8 @@
 
 ### Полезный софт
 
-LibreOffice: https://ru.libreoffice.org/     
+LibreOffice: https://ru.libreoffice.org/      
+GNU PSPP: https://www.gnu.org/software/pspp/        
 
 ### Полезные онлайн-сервисы
 - Конвертер из PDF в XLSX: https://smallpdf.com/ru/pdf-to-excel     
