@@ -11,23 +11,22 @@
 - Научиться публиковать и цитировать данные
 
 ## Основные материалы занятия
-Работа с программой OpenRefine: 
-Работа с платформой Zenodo: 
-Презентация по PID (Persistent Identificators):
+Работа с программой OpenRefine: http://openrefine.org/       
+Работа с платформой Zenodo: https://zenodo.org/     
+Презентация по PID (Persistent Identificators): https://www.slideshare.net/iradche/thor-74977088     
 Продолжение журналирования выполняемого исследования (организация журнала исследования в гугл-документе).       
 
 ## Дополнительные материалы
-### Список ссылок на наборы открытых данных
-RDM: 
-DataCitation: 
+
+Data Citation (Dataverse): http://best-practices.dataverse.org/data-citation/     
+Universal Numerical Fingerprint (UNF): http://guides.dataverse.org/en/latest/developers/unf/index.html     
+A Fingerprint Method for Scientific Data Verification: https://link.springer.com/chapter/10.1007%2F978-1-4020-8741-7_57     
 
 ### Инструкции   
 1. Исследовать источники открытых данных (2-3 - OK, но чем больше осмысленных данных, тем лучше)
 2. Найти и запротоколировать ссылки в журнал 
 3. Создать акканут на платформе Zenodo.
 4. Опубликовать данные на платформе Zenodo.
-
-### Полезные ссылки
      
 
 ### Инструментарий, используемый на занятии
