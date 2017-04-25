@@ -13,6 +13,7 @@
 ## Основные материалы занятия
 Работа с программой OpenRefine: http://openrefine.org/       
 Работа с платформой Zenodo: https://zenodo.org/     
+Публикация данных на платформе Zenodo: http://www.datadrivenjournalism.ru/2017/04/25/zenodo/       
 Презентация по PID (Persistent Identificators): https://www.slideshare.net/iradche/thor-74977088     
 Продолжение журналирования выполняемого исследования (организация журнала исследования в гугл-документе).       
 
