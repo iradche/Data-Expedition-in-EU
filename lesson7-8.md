@@ -19,6 +19,8 @@
 Tableau Public: https://public.tableau.com/       
 Скачать Tableau Public: https://public.tableau.com/en-us/s/download     
 Инструкции: https://public.tableau.com/en-us/s/resources       
+Plot.ly: https://plot.ly/        
+Инструкция по работе с Plot.ly: http://www.datadrivenjournalism.ru/2015/06/16/howto-plotly/        
        
 
 
@@ -28,13 +30,14 @@ Tableau Tutorial: https://casci.umd.edu/wp-content/uploads/2013/12/Tableau-Tutor
 
 
 ## Инструкции
-Загрузите и установите Tableau Public.       
-Пройдите последовательность действий по работе с данными и создайте визуализацию в Tableau Public.
-Инструкция для построения визуализации в Tableau Public: https://github.com/iradche/Data-Expedition-in-EU/blob/master/tableauPublic/TableauPublicTutorial.pdf     
-Заполните пост-опросник воркшопа: https://goo.gl/forms/h2BjPCTDlF2O9TSt2        
+1. Загрузите и установите Tableau Public.       
+2. Пройдите последовательность действий по работе с данными и создайте визуализацию в Tableau Public.
+3. Инструкция для построения визуализации в Tableau Public: https://github.com/iradche/Data-Expedition-in-EU/blob/master/tableauPublic/TableauPublicTutorial.pdf     
+4. Зайдите на сайт Plot.ly, заведите себе аккаунт и постройте диаграмму.          
+5. Заполните пост-опросник воркшопа: https://goo.gl/forms/h2BjPCTDlF2O9TSt2        
 
 ## Инструментарий, используемый на занятии
-Google Docs, Google Spreadsheets, HackPad, Google Forms, Tableau Public.
+Google Docs, Google Spreadsheets, HackPad, Google Forms, Tableau Public, Plot.ly.
 
 ## Задания
 
