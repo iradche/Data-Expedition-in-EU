@@ -28,6 +28,13 @@ Plot.ly: https://plot.ly/
 Ресурсы Tableau Public: public.tableau.com/s/resources      
 Tableau Tutorial: https://casci.umd.edu/wp-content/uploads/2013/12/Tableau-Tutorial.pdf     
 
+#### Валидаторы данных
+Валидатор CSV: https://csvlint.io/      
+Валидатор CSV: http://digital-preservation.github.io/csv-validator/     
+
+### Скрейперы
+Список скрейперов: https://github.com/cassidoo/scrapers    
+
 
 ## Инструкции
 1. Загрузите и установите Tableau Public.       
