@@ -22,7 +22,8 @@ Tableau Public: https://public.tableau.com/
 
 
 ## Дополнительные материалы
-
+Ресурсы Tableau Public: public.tableau.com/s/resources      
+Tableau Tutorial: https://casci.umd.edu/wp-content/uploads/2013/12/Tableau-Tutorial.pdf     
 
 
 ## Инструкции
