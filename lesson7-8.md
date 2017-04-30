@@ -33,7 +33,10 @@ Tableau Tutorial: https://casci.umd.edu/wp-content/uploads/2013/12/Tableau-Tutor
 Валидатор CSV: http://digital-preservation.github.io/csv-validator/     
 
 ### Скрейперы
-Список скрейперов: https://github.com/cassidoo/scrapers    
+Список скрейперов: https://github.com/cassidoo/scrapers   
+
+### Инструменты для подготовки данных
+Free Tools for Your Data-Prep Kit: https://public.tableau.com/en-us/s/blog/2016/06/free-tools-your-data-prep-kit        
 
 
 ## Инструкции
