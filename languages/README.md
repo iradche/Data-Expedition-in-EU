@@ -35,7 +35,8 @@ Python on CodeAcademy: https://www.codecademy.com/learn/python
 Python Tutorial: https://www.tutorialspoint.com/python/      
 A Beginner's Python Tutorial: https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial      
 Learn Python Online: https://www.codementor.io/learn-python-online      
-Learning Python: http://python-guide-pt-br.readthedocs.io/en/latest/intro/learning/      
+Learning Python: http://python-guide-pt-br.readthedocs.io/en/latest/intro/learning/  
+The key differences between Python 2.7.x and Python 3.x with examples: http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html       
 
 ## R
 ### Инструкции, тюториалы, etc
