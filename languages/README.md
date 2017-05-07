@@ -20,6 +20,12 @@ Awesome list (Go): https://github.com/avelino/awesome-go
 Язык Go для начинающих: https://habrahabr.ru/post/219459/     
 Введение в программирование на языке Go: http://golang-book.ru/     
 
+## JavaScript
+### Инструкции, тюториалы, etc
+Основы JavaScript: https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/JavaScript_basics      
+Современный учебник Javascript: https://learn.javascript.ru/      
+JavaScript Tutorial: https://www.w3schools.com/js/       
+
 
 ## Python
 ### Инструкции, тюториалы, etc
